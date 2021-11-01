@@ -3,6 +3,7 @@ bigDataUrl protein-fossil-te-all.bb
 shortLabel all TE proteins
 longLabel homology to transposable element proteins
 type bigBed 12
+itemRgb on
 visibility pack
 
 track te_proteins
@@ -10,6 +11,7 @@ bigDataUrl protein-fossil-te.bb
 shortLabel TE proteins
 longLabel homology to transposable element proteins
 type bigPsl
+visibility hide
 
 track hg_proteins
 bigDataUrl protein-fossil-hg.bb
