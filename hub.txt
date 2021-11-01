@@ -1,0 +1,4 @@
+hub protein_fossils
+shortLabel protein fossils
+longLabel protein fossils from transposable elements and host genes
+genomesFile genomes.txt

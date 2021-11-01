@@ -1,0 +1,8 @@
+genome hg38
+trackDb hg38/trackDb.txt
+
+genome latCha1
+trackDb latCha1/trackDb.txt
+
+genome calMil1
+trackDb calMil1/trackDb.txt

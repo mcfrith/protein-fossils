@@ -1,0 +1,11 @@
+track te_proteins
+bigDataUrl protein-fossil-te.bb
+shortLabel TE proteins
+longLabel homology to transposable element proteins
+type bigPsl
+
+track hg_proteins
+bigDataUrl protein-fossil-hg.bb
+shortLabel host proteins
+longLabel homology to host-gene proteins
+type bigPsl
