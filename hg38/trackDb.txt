@@ -1,3 +1,9 @@
+track te_proteins_all
+bigDataUrl protein-fossil-te-all.bb
+shortLabel all TE proteins
+longLabel homology to transposable element proteins
+type bigBed
+
 track te_proteins
 bigDataUrl protein-fossil-te.bb
 shortLabel TE proteins
