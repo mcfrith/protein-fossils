@@ -1,10 +1,10 @@
 # Protein fossils
 
-This is a collection of non-protein-coding genome segments that are
-descended from protein-coding DNA.  They are provided as
-DNA-versus-protein alignments in [psl][] format.  The `-te` files have
-protein fossils derived from transposable elements, and the `-hg`
-files have protein fossils derived from host genes.
+This is a collection of protein fossils: non-protein-coding genome
+segments that are descended from protein-coding DNA.  They are
+provided as DNA-versus-protein alignments in [psl][] format.  The
+`-te` files have protein fossils derived from transposable elements,
+and the `-hg` files have protein fossils derived from host genes.
 
 | Genome name                  | Animal     | Source   |
 |------------------------------|------------|----------|
